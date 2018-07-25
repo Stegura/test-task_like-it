@@ -1,0 +1,12 @@
+.playfairFont {
+  font-family: 'Playfair Display SC', serif;
+}
+.openSansFont {
+  font-family: 'Open Sans', sans-serif;
+}
+.clearfix:after {
+  content: '';
+  display: table;
+  width: 100%;
+  clear: both;
+}
